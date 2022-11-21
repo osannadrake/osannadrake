@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Osanna
+- 👋 Hi, I’m Osanna!
 I love the tidyverse, open science, and playing the harmonica
 - 👀 I’m interested in social-ecological systems governance 
 - 🌱 I’m currently learning agent-based modeling and bayesian statistics
